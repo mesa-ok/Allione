@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="AllliOneFGAS" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="Home.htm">
+    
+    <topic>
+      Home.htm
+    </topic>
+    
+    <topic>
+      Dashboard\Deschboard.htm
+    </topic>
+    
+    <topic>
+      Dashboard\cdcdcd.htm
+    </topic>
+    
+    <topic>
+      Dashboard\dc.htm
+    </topic>
+    
+    <topic>
+      Dashboard\new_topic1.htm
+    </topic>
+    
+    <topic>
+      Clienti\CLIENTI.htm
+    </topic>
+    
+    <topic>
+      Clienti\co.htm
+    </topic>
+    
+    <topic>
+      Clienti\Eliminare_un_record.htm
+    </topic>
+    
+    <topic>
+      Clienti\aa.htm
+    </topic>
+    
+    <topic>
+      Clienti\Visualiza_il_contatto_dal_contesto_dell_organizazione.htm
+    </topic>
+    
+    <topic>
+      Clienti\v.htm
+    </topic>
+    
+    <topic>
+      Clienti\wdd.htm
+    </topic>
+    
+    <topic>
+      Clienti\ddfff.htm
+    </topic>
+    
+    <topic>
+      Contatti\Contatti.htm
+    </topic>
+    
+    <topic>
+      Contatti\Eliminare_un_record_dal_Contatti.htm
+    </topic>
+    
+    <topic>
+      Contatti\Creare_un_nuovo_Record.htm
+    </topic>
+    
+    <topic>
+      Contatti\sf.htm
+    </topic>
+    
+    <topic>
+      Contatti\dd.htm
+    </topic>
+    
+    <topic>
+      Contatti\new_topic.htm
+    </topic>
+    
+    <topic>
+      Contatti\frg.htm
+    </topic>
+    
+    <topic>
+      Contatti\Visualizza_gli_ordini_di_servizio_per_il_contatto.htm
+    </topic>
+    
+    <topic>
+      Contatti\z.htm
+    </topic>
+    
+    <topic>
+      Contatti\zz.htm
+    </topic>
+    
+    <topic>
+      Richieste\Richieste.htm
+    </topic>
+    
+    <topic>
+      Richieste\new_topic2.htm
+    </topic>
+    
+    <topic>
+      Richieste\new_topic5.htm
+    </topic>
+    
+    <topic>
+      Richieste\new_topic.htm
+    </topic>
+    
+    <topic>
+      Richieste\new_topic8.htm
+    </topic>
+    
+    <topic>
+      Richieste\new_topic6.htm
+    </topic>
+    
+    <topic>
+      Richieste\new_topic4.htm
+    </topic>
+    
+    <topic>
+      Richieste\new_topic3.htm
+    </topic>
+    
+    <topic>
+      Richieste\new_topic7.htm
+    </topic>
+    
+    <topic>
+      Richieste\new_topic9.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic10.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic5.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic1.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic3.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\Ordini_Servizio.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic8.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic6.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic9.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic7.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic2.htm
+    </topic>
+    
+    <topic>
+      Ordini_Servizio\new_topic4.htm
+    </topic>
+    
+    <topic>
+      Personale\Personale.htm
+    </topic>
+    
+    <topic>
+      Personale\new_topic4.htm
+    </topic>
+    
+    <topic>
+      Personale\new_topic2.htm
+    </topic>
+    
+    <topic>
+      Personale\new_topic1.htm
+    </topic>
+    
+    <topic>
+      Personale\new_topic.htm
+    </topic>
+    
+    <topic>
+      Personale\new_topic3.htm
+    </topic>
+    
+    <topic>
+      Fornitori\Fornitori.htm
+    </topic>
+    
+    <topic>
+      Fornitori\gh.htm
+    </topic>
+    
+    <topic>
+      Fornitori\new_topic2.htm
+    </topic>
+    
+    <topic>
+      Fornitori\new_topic.htm
+    </topic>
+    
+    <topic>
+      Fornitori\new_topic3.htm
+    </topic>
+    
+    <topic>
+      Fornitori\f.htm
+    </topic>
+    
+    <topic>
+      Fornitori\new_topic1.htm
+    </topic>
+    
+    <topic>
+      Ordini_Fornitore\Ordini_Fornitori.htm
+    </topic>
+    
+    <topic>
+      Ordini_Fornitore\new_topic.htm
+    </topic>
+    
+    <topic>
+      Ordini_Fornitore\new_topic4.htm
+    </topic>
+    
+    <topic>
+      Ordini_Fornitore\new_topic5.htm
+    </topic>
+    
+    <topic>
+      Ordini_Fornitore\new_topic3.htm
+    </topic>
+    
+    <topic>
+      Ordini_Fornitore\new_topic2.htm
+    </topic>
+    
+    <topic>
+      Ordini_Fornitore\new_topic1.htm
+    </topic>
+    
+    <topic>
+      Pagamenti\Pagamenti.htm
+    </topic>
+    
+    <topic>
+      Pagamenti\new_topic.htm
+    </topic>
+    
+    <topic>
+      Pagamenti\new_topic3.htm
+    </topic>
+    
+    <topic>
+      Pagamenti\new_topic6.htm
+    </topic>
+    
+    <topic>
+      Pagamenti\new_topic1.htm
+    </topic>
+    
+    <topic>
+      Pagamenti\new_topic4.htm
+    </topic>
+    
+    <topic>
+      Pagamenti\new_topic2.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\Fatture_Attive.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic1.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic4.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic3.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic6.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\f.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic7.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic8.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic10.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic5.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic9.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic.htm
+    </topic>
+    
+    <topic>
+      Fatture_Attive\new_topic2.htm
+    </topic>
+    
+    <topic>
+      DDT\new_topic.htm
+    </topic>
+    
+    <topic>
+      DDT\new_topic3.htm
+    </topic>
+    
+    <topic>
+      DDT\new_topic5.htm
+    </topic>
+    
+    <topic>
+      DDT\new_topic1.htm
+    </topic>
+    
+    <topic>
+      DDT\new_topic2.htm
+    </topic>
+    
+    <topic>
+      DDT\new_topic4.htm
+    </topic>
+    
+    <topic>
+      Magazzino_\Magazzino.htm
+    </topic>
+    
+    <topic>
+      Magazzino_\new_topic4.htm
+    </topic>
+    
+    <topic>
+      Magazzino_\new_topic3.htm
+    </topic>
+    
+    <topic>
+      Magazzino_\new_topic2.htm
+    </topic>
+    
+    <topic>
+      Magazzino_\new_topic6.htm
+    </topic>
+    
+    <topic>
+      Magazzino_\new_topic5.htm
+    </topic>
+    
+    <topic>
+      Magazzino_\new_topic.htm
+    </topic>
+    
+    <topic>
+      Magazzino_\new_topic1.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        it_IT
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>
